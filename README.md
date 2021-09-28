@@ -3,7 +3,7 @@ This project is a treat for all the Harry Potter fans out there. It recreates th
 
 ## Installation
 #### Clone
-Clone this repo to your local machine using `git clone `
+Clone this repo to your local machine using `git clone https://github.com/karban8/Invisibility_Cloak.git`
 
 #### Setup/Requirements
 This code is written in Python. It uses the following libraries:
